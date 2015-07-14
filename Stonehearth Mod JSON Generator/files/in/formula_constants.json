@@ -1,0 +1,17 @@
+{
+	"base_resource_prices" : {
+		"wood" : 1,
+		"stone" : 1,
+		"fiber" : 1
+	},
+	"labor_prices" : {
+		"carpenter" : [5, 10, 15, 20, 25, 30, 35],
+		"weaver" : [6, 12, 18, 24, 30, 36, 42],
+		"mason" : [6, 12, 18, 24, 30, 36, 42]
+	},
+	"multipliers" : {
+		"fine_item" : 1.5,
+		"basic_resource" : 1,
+		"non_basic_resource" : 0.75
+	}
+}
