@@ -1,0 +1,9 @@
+{
+	"info" : {
+		"name" : "item_value_mod",
+		"version" : 1
+	},
+	"mixintos" : {
+		"stonehearth:furniture:not_much_of_a_bed" : "file(/mixintos/entities/furniture/not_much_of_a_bed.json)"
+	}
+}
